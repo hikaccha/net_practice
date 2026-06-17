@@ -201,6 +201,7 @@ AI tools were used to:
 
 All generated explanations were reviewed and validated manually before being used.
 
+---
 
 # 日本語解説
 
